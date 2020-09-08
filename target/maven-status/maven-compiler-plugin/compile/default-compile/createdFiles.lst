@@ -1,0 +1,8 @@
+RoomSystem\ReservationCanceled.class
+RoomSystem\PolicyHandler.class
+RoomSystem\RoomRegistered.class
+RoomSystem\Application.class
+RoomSystem\Reserved.class
+RoomSystem\AbstractEvent.class
+RoomSystem\config\kafka\KafkaProcessor.class
+RoomSystem\RoomDelete.class
